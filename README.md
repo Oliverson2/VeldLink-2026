@@ -26,3 +26,5 @@ disrupted while the repair is being tested and validated before merging.
 
 ## Fix Progress
 - [x] Checkpoint save on power failure detection added
+
+- [x] Retry logic corrected to resume from saved checkpoint offset
