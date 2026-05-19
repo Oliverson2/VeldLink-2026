@@ -28,3 +28,5 @@ disrupted while the repair is being tested and validated before merging.
 - [x] Checkpoint save on power failure detection added
 
 - [x] Retry logic corrected to resume from saved checkpoint offset
+
+- [x] Power failure simulation test suite added and passed
