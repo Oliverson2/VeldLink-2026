@@ -23,3 +23,6 @@ disrupted while the repair is being tested and validated before merging.
 - No direct commits to Main during this fix
 - All changes must be tested before merge
 - Merge only after 100% data integrity is confirmed
+
+## Fix Progress
+- [x] Checkpoint save on power failure detection added
